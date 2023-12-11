@@ -7534,7 +7534,7 @@ const Rd = ({ href: e, children: n }) =>
                   }),
                   le.jsx("p", {
                     className: "posisi",
-                    children: "I'm an Information System student at the uin Raden intan Lampung and. Currently, I Am participate in Himasi UINRIL,and many other.",
+                    children: "I am an Information Systems student with a GPA of 3.6 at Raden Intan Lampung State Islamic University and.  Currently I am joining the Information Systems Student Association (HIMASI), at HIMASI I am a permanent member of the Information and Communication Department, I am an alumnus of SMKN 1 Tulung Selapan, Department of Computer and Network Engineering.",
                   }),
                 ],
               }),
